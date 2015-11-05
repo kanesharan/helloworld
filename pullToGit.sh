@@ -2,5 +2,5 @@
 git checkout development
 git add .
 git commit -a --allow-empty-message -m ''
-git pull origin development
+git pull https://github.com/kanesharan/helloworld.git development
 
